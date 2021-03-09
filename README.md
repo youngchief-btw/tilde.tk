@@ -4,7 +4,7 @@ In need of a cool subdomain?
 
 And want it to be your own UNIX home directory?
 
-Then **[ttilde.tk (~.tk)](https://tilde.tk)** is right for you!
+Then **[tilde.tk (~.tk)](https://tilde.tk)** is right for you!
 
 ---
 
