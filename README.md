@@ -24,7 +24,7 @@ Getting started:
 TO-DO:
 - [ ] Create some automation!
 - [ ] Add more detailed docs
-- [ ] Create a website for **[tilde.tk (~.tk)](https://tilde.tk)**
-- [ ] Host website via **Cloudflare Pages**
-- [ ] Link Cloudflare Pages project to **[tilde.tk (~.tk)](https://tilde.tk)**
+- [X] Create a website for **[tilde.tk (~.tk)](https://tilde.tk)**
+- [X] Host website via **Cloudflare Pages**
+- [X] Link Cloudflare Pages project to **[tilde.tk (~.tk)](https://tilde.tk)**
 - [ ] Make a file with historical moments for **[tilde.tk (~.tk)](https://tilde.tk)**
